@@ -1,3 +1,2 @@
-# FASM_HW1
-
 # Task 1
+Программа, которая выводит Hello World!
